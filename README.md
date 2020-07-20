@@ -1,5 +1,9 @@
 Here I record the history of my vocabulary size.
 
+# History Chart
+
+![Chart](chart.png)
+
 # History Table
 
 | Date       | Days Past | Total Vocabulary | Net Vocabulary | Link                                          |
