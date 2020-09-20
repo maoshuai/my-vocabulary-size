@@ -4,6 +4,8 @@ Here I record the history of my vocabulary size.
 
 ![Chart](chart.png)
 
+Chart url: https://jsfiddle.net/a36fqepn/2/
+
 # History Table
 
 | Date       | Days Past | Total Vocabulary | Net Vocabulary | Link                                          |
@@ -28,3 +30,4 @@ Here I record the history of my vocabulary size.
 | 2020/6/7   | 1145      | 8470             | 4400           | http://testyourvocab.com/result?user=13961581 |
 | 2020/7/20  | 1188      | 8980             | 4910           | http://testyourvocab.com/result?user=14200774 |
 | 2020/8/20  | 1219      | 8740             | 4670           | http://testyourvocab.com/result?user=14393720 |
+| 2020/9/20  | 1250      | 8989             | 4910           | http://testyourvocab.com/result?user=14569931 |
