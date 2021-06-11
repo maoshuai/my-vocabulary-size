@@ -2,7 +2,8 @@ Here I record the history of my vocabulary size.
 
 # History Chart
 
-![Chart](chart.png)
+![chart-20210611](https://user-images.githubusercontent.com/4100858/121678536-e13d1700-cae9-11eb-9add-1fa28840e4fa.png)
+
 
 Chart url: https://jsfiddle.net/a36fqepn/2/
 
@@ -31,3 +32,8 @@ Chart url: https://jsfiddle.net/a36fqepn/2/
 | 2020/7/20  | 1188      | 8980             | 4910           | http://testyourvocab.com/result?user=14200774 |
 | 2020/8/20  | 1219      | 8740             | 4670           | http://testyourvocab.com/result?user=14393720 |
 | 2020/9/20  | 1250      | 8989             | 4910           | http://testyourvocab.com/result?user=14569931 |
+|2020/12/21|1342|8770|4700|http://testyourvocab.com/result?user=15208105|
+|2021/01/24|1376|8740|4670|http://testyourvocab.com/result?user=15496894|
+|2021/02/21|1404|8920|4850|http://testyourvocab.com/result?user=15784535|
+|2021/06/11|1514|8500|4430|http://testyourvocab.com/result?user=16460707|
+
