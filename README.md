@@ -2,7 +2,8 @@ Here I record the history of my vocabulary size.
 
 # History Chart
 
-![chart-20210611](https://user-images.githubusercontent.com/4100858/121678536-e13d1700-cae9-11eb-9add-1fa28840e4fa.png)
+![my-vocabulary-size](https://user-images.githubusercontent.com/4100858/121678790-31b47480-caea-11eb-8b2d-45c874ade1bb.png)
+
 
 
 Chart url: https://jsfiddle.net/a36fqepn/2/
